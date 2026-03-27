@@ -36,50 +36,42 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🔍 bench-analysis-skill</h3>
-<p align="center">
-  <a href="https://github.com/Zacklinkk/bench-analysis-skill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zacklinkk&repo=bench-analysis-skill&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" alt="bench-analysis-skill"/>
-  </a>
-</p>
-<p align="center"><sub>Systematic benchmark failure diagnosis — traces scores, execution traces, and prompts to attribute failures to model behavior vs. benchmark design issues.</sub></p>
+**[🔍 bench-analysis-skill](https://github.com/Zacklinkk/bench-analysis-skill)**
+
+Systematic benchmark failure diagnosis — traces scores, execution traces, and prompts to attribute failures to model behavior vs. benchmark design issues.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white) ⭐ 1
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🌐 open-webSearch</h3>
-<p align="center">
-  <a href="https://github.com/Zacklinkk/open-webSearch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zacklinkk&repo=open-webSearch&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" alt="open-webSearch"/>
-  </a>
-</p>
-<p align="center"><sub>Multi-engine web search MCP server — Bing, Baidu, DuckDuckGo, Brave, and more. No API keys required.</sub></p>
+**[🌐 open-webSearch](https://github.com/Zacklinkk/open-webSearch)**
+
+Multi-engine web search MCP server — Bing, Baidu, DuckDuckGo, Brave, and more. No API keys required.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-00d4ff?style=flat)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🎮 game-resolve</h3>
-<p align="center">
-  <a href="https://github.com/Zacklinkk/game-resolve">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zacklinkk&repo=game-resolve&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" alt="game-resolve"/>
-  </a>
-</p>
-<p align="center"><sub>Interactive horror puzzle visual novel — multi-branch endings, bilingual support, AI model integration.</sub></p>
+**[🎮 game-resolve](https://github.com/Zacklinkk/game-resolve)**
+
+Interactive horror puzzle visual novel — multi-branch endings, bilingual support, AI model integration.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🗣️ ququ</h3>
-<p align="center">
-  <a href="https://github.com/Zacklinkk/ququ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zacklinkk&repo=ququ&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed" alt="ququ"/>
-  </a>
-</p>
-<p align="center"><sub>开源 Wispr Flow 替代 — 集成 FunASR 本地模型的中文桌面语音工作流。</sub></p>
+**[🗣️ ququ](https://github.com/Zacklinkk/ququ)**
+
+开源 Wispr Flow 替代 — 集成 FunASR 本地模型的中文桌面语音工作流。
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![FunASR](https://img.shields.io/badge/FunASR-ff6b6b?style=flat)
 
 </td>
 </tr>
@@ -93,19 +85,21 @@
 
 <div align="center">
 
-<!-- GitHub Stats & Top Languages side by side -->
+<!-- Profile Summary Cards (reliable service) -->
 <a href="https://github.com/Zacklinkk">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zacklinkk&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&ring_color=6366f1" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/Zacklinkk">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zacklinkk&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zacklinkk&theme=github_dark" alt="Profile Details" width="100%"/>
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- GitHub Profile Trophy -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zacklinkk&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=10" alt="trophy"/>
+<a href="https://github.com/Zacklinkk">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zacklinkk&theme=github_dark" alt="Stats"/>
+</a>
+<a href="https://github.com/Zacklinkk">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zacklinkk&theme=github_dark" alt="Top Languages by Repo"/>
+</a>
+<a href="https://github.com/Zacklinkk">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zacklinkk&theme=github_dark&utcOffset=8" alt="Productive Time"/>
 </a>
 
 <br/><br/>
