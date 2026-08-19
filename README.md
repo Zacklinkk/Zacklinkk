@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/Zacklinkk">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=35&lines=AI+Product+Manager+%F0%9F%A7%A0;LLM+Evaluation+%26+MCP+Ecosystem+%F0%9F%94%AC;Open+Source+Builder+%F0%9F%9B%A0%EF%B8%8F;Quantitative+Trading+Explorer+%F0%9F%93%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=35&lines=Benchmark+Analysis+%26+Evaluation+Workflows+%F0%9F%94%AC;Agent+Tooling+%26+Developer+Experience+%F0%9F%9B%A0%EF%B8%8F;Open+Source+Builder+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,85 +22,39 @@
 ## `> whoami`
 
 ```text
-🧠 AI PM — Building intelligent tools at the intersection of LLMs and developer experience
-🔬 Crafting evaluation frameworks for AI agents & LLM benchmarks
-🛠️ Open source contributor — MCP ecosystem, Claude Code skills, and beyond
-📈 Quantitative trading tinkerer — data-driven strategies with Python
+🔬 Benchmark analysis — tracing scores, execution paths, task definitions, and graders
+🧪 Evaluation workflows — failure attribution, verification, and reproducible evidence
+🛠️ Open-source builder — agent tooling, skills, and desktop plugins
 ```
 
 <!-- Wave Separator -->
 <img src="./assets/wave.svg" width="100%"/>
 
-## `> cat featured_projects.md`
+## `> cat selected_repository.md`
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
+### [🔍 bench-analysis-skill](https://github.com/Zacklinkk/bench-analysis-skill)
 
-**[🔍 bench-analysis-skill](https://github.com/Zacklinkk/bench-analysis-skill)**
+A public, reusable workflow for diagnosing benchmark failures from scores, execution traces, task definitions, and grader behavior.
 
-Systematic benchmark failure diagnosis — traces scores, execution traces, and prompts to attribute failures to model behavior vs. benchmark design issues.
+[Failure-attribution flow](https://github.com/Zacklinkk/bench-analysis-skill/blob/main/docs/failure-attribution-flow.md) · [Synthetic example report](https://github.com/Zacklinkk/bench-analysis-skill/blob/main/examples/example-report.md) · [Analysis scripts](https://github.com/Zacklinkk/bench-analysis-skill/tree/main/scripts)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat&logo=anthropic&logoColor=white) ⭐ 1
-
-</td>
-<td width="50%" valign="top">
-
-**[🌐 open-webSearch](https://github.com/Zacklinkk/open-webSearch)**
-
-Multi-engine web search MCP server — Bing, Baidu, DuckDuckGo, Brave, and more. No API keys required.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-00d4ff?style=flat)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[🎮 game-resolve](https://github.com/Zacklinkk/game-resolve)**
-
-Interactive horror puzzle visual novel — multi-branch endings, bilingual support, AI model integration.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-</td>
-<td width="50%" valign="top">
-
-**[🗣️ ququ](https://github.com/Zacklinkk/ququ)**
-
-开源 Wispr Flow 替代 — 集成 FunASR 本地模型的中文桌面语音工作流。
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![FunASR](https://img.shields.io/badge/FunASR-ff6b6b?style=flat)
-
-</td>
-</tr>
-</table>
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AI Evaluation](https://img.shields.io/badge/AI_Evaluation-7c3aed?style=flat) ![MIT License](https://img.shields.io/badge/License-MIT-22c55e?style=flat)
 
 <!-- Wave Separator -->
 <img src="./assets/wave.svg" width="100%"/>
 
 ## `> cat oh_my_dsh_plugins.md` · Oh My DSH Plugins
 
-Creator and maintainer of the following projects in the [Oh My DSH](https://github.com/omdsh-dev) ecosystem:
+Selected projects I create and maintain in the [Oh My DSH](https://github.com/omdsh-dev) ecosystem:
 
 | Project | What it does |
 |---|---|
 | [dsh-longbridge](https://github.com/omdsh-dev/dsh-longbridge) | Longbridge market data, account, positions, and trading tools |
-| [dsh-fun-ticker](https://github.com/omdsh-dev/dsh-fun-ticker) | Customizable crypto, FX, A-share, index, HK, and US ticker |
 | [dsh-book2skill](https://github.com/omdsh-dev/dsh-book2skill) | Five-stage book-to-skill workflow with three human gates |
-| [dsh-revive](https://github.com/omdsh-dev/dsh-revive) | Resume interrupted agent sessions after restart |
-| [dsh-daily-progress](https://github.com/omdsh-dev/dsh-daily-progress) | Daily plans, tasks, completion rate, and progress widget |
 | [dsh-paddle-ocr](https://github.com/omdsh-dev/dsh-paddle-ocr) | PaddleOCR-VL document layout parsing to Markdown |
-| [dsh-ernie-image](https://github.com/omdsh-dev/dsh-ernie-image) | ERNIE-Image-Turbo generation with settings and gallery |
 | [dsh-voice-funasr](https://github.com/omdsh-dev/dsh-voice-funasr) | Local offline FunASR voice input with LLM polishing |
-| [dsh-daily-fortune](https://github.com/omdsh-dev/dsh-daily-fortune) | Guan Yin lots, tarot spreads, and daily quotes |
-| [dsh-fun-weather](https://github.com/omdsh-dev/dsh-fun-weather) | Weather tab and weather-responsive themes |
-| [dsh-fun-typewriter](https://github.com/omdsh-dev/dsh-fun-typewriter) | WebAudio typewriter ambience with no audio assets |
-| [dsh-pet-corner](https://github.com/omdsh-dev/dsh-pet-corner) | Floating pet, keyless image proxy, and favorites |
-| [awesome-deepseek-harness-desktop](https://github.com/omdsh-dev/awesome-deepseek-harness-desktop) | Ready-to-use desktop distribution for DeepSeek Harness |
-| [dsh-deep-sleep](https://github.com/omdsh-dev/dsh-deep-sleep) | Cat-themed bedtime reminder for DSH Web |
+
+[Explore all Oh My DSH repositories →](https://github.com/orgs/omdsh-dev/repositories)
 
 <!-- Wave Separator -->
 <img src="./assets/wave.svg" width="100%"/>
