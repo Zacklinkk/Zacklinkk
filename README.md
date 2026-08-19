@@ -16,9 +16,6 @@
 
 </div>
 
-<!-- Wave Separator -->
-<img src="./assets/wave.svg" width="100%"/>
-
 ## `> whoami`
 
 ```text
@@ -26,9 +23,6 @@
 🧪 Evaluation workflows — failure attribution, verification, and reproducible evidence
 🛠️ Open-source builder — agent tooling, skills, and desktop plugins
 ```
-
-<!-- Wave Separator -->
-<img src="./assets/wave.svg" width="100%"/>
 
 ## `> cat selected_repository.md`
 
@@ -39,9 +33,6 @@ A public, reusable workflow for diagnosing benchmark failures from scores, execu
 [Failure-attribution flow](https://github.com/Zacklinkk/bench-analysis-skill/blob/main/docs/failure-attribution-flow.md) · [Synthetic example report](https://github.com/Zacklinkk/bench-analysis-skill/blob/main/examples/example-report.md) · [Analysis scripts](https://github.com/Zacklinkk/bench-analysis-skill/tree/main/scripts)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![AI Evaluation](https://img.shields.io/badge/AI_Evaluation-7c3aed?style=flat) ![MIT License](https://img.shields.io/badge/License-MIT-22c55e?style=flat)
-
-<!-- Wave Separator -->
-<img src="./assets/wave.svg" width="100%"/>
 
 ## `> cat oh_my_dsh_plugins.md` · Oh My DSH Plugins
 
@@ -55,44 +46,6 @@ Selected projects I create and maintain in the [Oh My DSH](https://github.com/om
 | [dsh-voice-funasr](https://github.com/omdsh-dev/dsh-voice-funasr) | Local offline FunASR voice input with LLM polishing |
 
 [Explore all Oh My DSH repositories →](https://github.com/orgs/omdsh-dev/repositories)
-
-<!-- Wave Separator -->
-<img src="./assets/wave.svg" width="100%"/>
-
-## `> neofetch`
-
-<div align="center">
-
-<!-- Profile Summary Cards (reliable service) -->
-<a href="https://github.com/Zacklinkk">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zacklinkk&theme=github_dark" alt="Profile Details" width="100%"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Zacklinkk">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zacklinkk&theme=github_dark" alt="Stats"/>
-</a>
-<a href="https://github.com/Zacklinkk">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zacklinkk&theme=github_dark" alt="Top Languages by Repo"/>
-</a>
-<a href="https://github.com/Zacklinkk">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zacklinkk&theme=github_dark&utcOffset=8" alt="Productive Time"/>
-</a>
-
-<br/><br/>
-
-<!-- Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zacklinkk/Zacklinkk/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zacklinkk/Zacklinkk/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Zacklinkk/Zacklinkk/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<!-- Wave Separator -->
-<img src="./assets/wave.svg" width="100%"/>
 
 <div align="center">
 
