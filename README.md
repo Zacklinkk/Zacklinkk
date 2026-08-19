@@ -81,6 +81,30 @@ Interactive horror puzzle visual novel — multi-branch endings, bilingual suppo
 <!-- Wave Separator -->
 <img src="./assets/wave.svg" width="100%"/>
 
+## `> cat oh_my_dsh_plugins.md` · Oh My DSH Plugins
+
+Creator and maintainer of the following projects in the [Oh My DSH](https://github.com/omdsh-dev) ecosystem:
+
+| Project | What it does |
+|---|---|
+| [dsh-longbridge](https://github.com/omdsh-dev/dsh-longbridge) | Longbridge market data, account, positions, and trading tools |
+| [dsh-fun-ticker](https://github.com/omdsh-dev/dsh-fun-ticker) | Customizable crypto, FX, A-share, index, HK, and US ticker |
+| [dsh-book2skill](https://github.com/omdsh-dev/dsh-book2skill) | Five-stage book-to-skill workflow with three human gates |
+| [dsh-revive](https://github.com/omdsh-dev/dsh-revive) | Resume interrupted agent sessions after restart |
+| [dsh-daily-progress](https://github.com/omdsh-dev/dsh-daily-progress) | Daily plans, tasks, completion rate, and progress widget |
+| [dsh-paddle-ocr](https://github.com/omdsh-dev/dsh-paddle-ocr) | PaddleOCR-VL document layout parsing to Markdown |
+| [dsh-ernie-image](https://github.com/omdsh-dev/dsh-ernie-image) | ERNIE-Image-Turbo generation with settings and gallery |
+| [dsh-voice-funasr](https://github.com/omdsh-dev/dsh-voice-funasr) | Local offline FunASR voice input with LLM polishing |
+| [dsh-daily-fortune](https://github.com/omdsh-dev/dsh-daily-fortune) | Guan Yin lots, tarot spreads, and daily quotes |
+| [dsh-fun-weather](https://github.com/omdsh-dev/dsh-fun-weather) | Weather tab and weather-responsive themes |
+| [dsh-fun-typewriter](https://github.com/omdsh-dev/dsh-fun-typewriter) | WebAudio typewriter ambience with no audio assets |
+| [dsh-pet-corner](https://github.com/omdsh-dev/dsh-pet-corner) | Floating pet, keyless image proxy, and favorites |
+| [awesome-deepseek-harness-desktop](https://github.com/omdsh-dev/awesome-deepseek-harness-desktop) | Ready-to-use desktop distribution for DeepSeek Harness |
+| [dsh-deep-sleep](https://github.com/omdsh-dev/dsh-deep-sleep) | Cat-themed bedtime reminder for DSH Web |
+
+<!-- Wave Separator -->
+<img src="./assets/wave.svg" width="100%"/>
+
 ## `> neofetch`
 
 <div align="center">
